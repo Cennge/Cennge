@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Ilya
+Hi! My name is Ilya <a href="https://emoji.gg/emoji/wavegif_1860"><img src="https://cdn3.emoji.gg/emojis/wavegif_1860.gif" width="28px" height="28px" alt="wavegif"></a>
 ============================================================================================================================
 
 Web Developer
