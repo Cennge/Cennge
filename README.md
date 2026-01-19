@@ -25,4 +25,5 @@ I am a passionate and dedicated web developer with a solid foundation in front-e
 
 <p><a href="https://www.credly.com/badges/8e60c0c4-f855-49aa-9a38-8bd712e0605d/public_url">Cisco/NDG Linux Essentials</a></p>
 <p><a href="https://www.credly.com/badges/754f0755-c8dc-4d16-a1ed-e1f63cb12174">Junior Cybersecurity Analyst</a></p>
+<p><a href="https://www.credly.com/badges/5d08dac9-bc9e-4234-88a6-51636a4b9c32">CCNA: Introduction to Networks</a></p>
 
